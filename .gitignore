@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.neon
+/dist/
+.vinext/
+.cloudflare/
+
+# Cloudflare local files
+.wrangler/
